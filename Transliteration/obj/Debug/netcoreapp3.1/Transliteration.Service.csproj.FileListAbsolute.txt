@@ -1,0 +1,8 @@
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\bin\Debug\netcoreapp3.1\Transliteration.Service.deps.json
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\bin\Debug\netcoreapp3.1\Transliteration.Service.dll
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\bin\Debug\netcoreapp3.1\Transliteration.Service.pdb
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\obj\Debug\netcoreapp3.1\Transliteration.Service.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\obj\Debug\netcoreapp3.1\Transliteration.Service.AssemblyInfo.cs
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\obj\Debug\netcoreapp3.1\Transliteration.Service.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\obj\Debug\netcoreapp3.1\Transliteration.Service.dll
+C:\Users\Админ\source\repos\CreditAgricoleTasks\Transliteration\obj\Debug\netcoreapp3.1\Transliteration.Service.pdb

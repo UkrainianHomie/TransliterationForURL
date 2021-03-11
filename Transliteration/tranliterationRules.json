@@ -1,0 +1,276 @@
+{
+  "Rules": [
+    {
+      "key": "çã",
+      "value": "zgh"
+    },
+    {
+      "key": "Çã",
+      "value": "Zgh"
+    },
+    {
+      "key": "ü",
+      "value": null
+    },
+    {
+      "key": "'",
+      "value": null
+    },
+    {
+      "key": "À",
+      "value": "A"
+    },
+    {
+      "key": "Á",
+      "value": "B"
+    },
+    {
+      "key": "Â",
+      "value": "V"
+    },
+    {
+      "key": "Ã",
+      "value": "H"
+    },
+    {
+      "key": "¥",
+      "value": "G"
+    },
+    {
+      "key": "Ä",
+      "value": "D"
+    },
+    {
+      "key": "Å",
+      "value": "E"
+    },
+    {
+      "key": "ª",
+      "value": "Ye"
+    },
+    {
+      "key": "Æ",
+      "value": "Zh"
+    },
+    {
+      "key": "Ç",
+      "value": "Z"
+    },
+    {
+      "key": "È",
+      "value": "Y"
+    },
+    {
+      "key": "²",
+      "value": "I"
+    },
+    {
+      "key": "¯",
+      "value": "Yi"
+    },
+    {
+      "key": "É",
+      "value": "Y"
+    },
+    {
+      "key": "Ê",
+      "value": "K"
+    },
+    {
+      "key": "Ë",
+      "value": "L"
+    },
+    {
+      "key": "Ì",
+      "value": "M"
+    },
+    {
+      "key": "Í",
+      "value": "N"
+    },
+    {
+      "key": "Î",
+      "value": "O"
+    },
+    {
+      "key": "Ï",
+      "value": "P"
+    },
+    {
+      "key": "Ð",
+      "value": "R"
+    },
+    {
+      "key": "Ñ",
+      "value": "S"
+    },
+    {
+      "key": "Ò",
+      "value": "T"
+    },
+    {
+      "key": "Ó",
+      "value": "U"
+    },
+    {
+      "key": "Ô",
+      "value": "F"
+    },
+    {
+      "key": "Õ",
+      "value": "Kh"
+    },
+    {
+      "key": "Ö",
+      "value": "Ts"
+    },
+    {
+      "key": "×",
+      "value": "Ch"
+    },
+    {
+      "key": "Ø",
+      "value": "Sh"
+    },
+    {
+      "key": "Ù",
+      "value": "Shch"
+    },
+    {
+      "key": "Þ",
+      "value": "Yu"
+    },
+    {
+      "key": "ß",
+      "value": "Ya"
+    },
+    {
+      "key": "à",
+      "value": "a"
+    },
+    {
+      "key": "á",
+      "value": "b"
+    },
+    {
+      "key": "â",
+      "value": "v"
+    },
+    {
+      "key": "ã",
+      "value": "h"
+    },
+    {
+      "key": "´",
+      "value": "g"
+    },
+    {
+      "key": "ä",
+      "value": "d"
+    },
+    {
+      "key": "å",
+      "value": "e"
+    },
+    {
+      "key": "º",
+      "value": "ie"
+    },
+    {
+      "key": "æ",
+      "value": "zh"
+    },
+    {
+      "key": "ç",
+      "value": "z"
+    },
+    {
+      "key": "è",
+      "value": "y"
+    },
+    {
+      "key": "³",
+      "value": "i"
+    },
+    {
+      "key": "¿",
+      "value": "i"
+    },
+    {
+      "key": "é",
+      "value": "i"
+    },
+    {
+      "key": "ê",
+      "value": "k"
+    },
+    {
+      "key": "ë",
+      "value": "l"
+    },
+    {
+      "key": "ì",
+      "value": "m"
+    },
+    {
+      "key": "í",
+      "value": "n"
+    },
+    {
+      "key": "î",
+      "value": "o"
+    },
+    {
+      "key": "ï",
+      "value": "p"
+    },
+    {
+      "key": "ð",
+      "value": "r"
+    },
+    {
+      "key": "ñ",
+      "value": "s"
+    },
+    {
+      "key": "ò",
+      "value": "t"
+    },
+    {
+      "key": "ó",
+      "value": "u"
+    },
+    {
+      "key": "ô",
+      "value": "f"
+    },
+    {
+      "key": "õ",
+      "value": "kh"
+    },
+    {
+      "key": "ö",
+      "value": "ts"
+    },
+    {
+      "key": "÷",
+      "value": "ch"
+    },
+    {
+      "key": "ø",
+      "value": "sh"
+    },
+    {
+      "key": "ù",
+      "value": "shch"
+    },
+    {
+      "key": "þ",
+      "value": "iu"
+    },
+    {
+      "key": "ÿ",
+      "value": "ia"
+    }
+  ]
+}
